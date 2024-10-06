@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Touhou-Fumojis.json"
+    "Touhou-Fumojis.json",
+    "selection.json"
   ],
   "homeserver_url": "https://matrix.oniisan.hopto.org"
 }
