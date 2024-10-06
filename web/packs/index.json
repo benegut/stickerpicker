@@ -1,7 +1,6 @@
 {
   "packs": [
-    "Anime-Tink-emoji.json",
-    "Anime_And_Memes-emojigg-pack.json"
+    "Touhou-Fumojis.json"
   ],
   "homeserver_url": "https://matrix.oniisan.hopto.org"
 }
