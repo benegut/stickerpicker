@@ -1,6 +1,7 @@
 {
   "packs": [
     "selection.json"
+    "lewd.json"
   ],
   "homeserver_url": "https://matrix.oniisan.hopto.org"
 }
